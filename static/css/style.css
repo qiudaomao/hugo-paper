@@ -538,6 +538,10 @@ img {
   text-align: center;
   line-height: 24px;
 }
+.footer img {
+    margin-left: auto;
+    margin-right: auto;
+}
 .footer span {
   margin-left: 1px;
   margin-right: 1px;
